@@ -1,7 +1,7 @@
 # GPHH-for-UCARP-UCPP-by-Python
 This project has the GPHH algorithm for solving UCARP, UCPP, URPP, and UkRPP with Python version
 
-If you need Java version, you can go to: https://github.com/meiyi1986/gpucarp for more professional details. In effect, I have referenced many things from it!
+If you need "GPHH for UCARP" with Java version, you can go to: **https://github.com/meiyi1986/gpucarp** for more professional details. In effect, I have referenced many things from it!
 
 If you need Python version, you can use this project.
 
